@@ -36,3 +36,5 @@ Content: {content}
 - Animation(narration): Here is a narration script: {narration}
 
 I want to create a small animation comprising of props which look like hand-drawn sketches to visualise this narration. Please provide a description of this animation.
+
+For each part of the animation, also include the section of the narration to speak while that part is being played. Return your answer in JSON format { animationDescription: string, narration: string }[]

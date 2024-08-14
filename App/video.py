@@ -17,8 +17,12 @@ numberOfSubScenes = len(scene["subScenes"]) #5
 #this means, the first subscene's top-left corner is at (0, 200) using top-left as (0, 0) and bottom-right as (1920, 1080);
 #the subScene has area 640x440, so we need to generate an animation within that frame
 
-subScene = 
+subScene = scene["subScenes"][0]
 subSceneDimensions = [640, 440] #width, height
 
-print(scene["title"])
-print(scene["subScenes"][0])
+#Now within this subScene, we have another title, so we need to reserve the top 100 pixels for that, giving us a remaining area of 640x340
+
+#Title: Molecules in Constant Motion
+#Narration: Gas molecules are in continuous, random motion. They travel in straight lines until they collide with other molecules or the walls of their container.
+
+#We will take this narration and use ChatGPT to convert it into a 'storyboard'
