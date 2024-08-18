@@ -76,3 +76,30 @@ interface Animation {
     endPosition: Point;
     durationPercentage: number;
 }
+
+
+
+*For the virality effect, we'll also need to 'attach' an influential figure to each video, and we can do this by asking LLMs to modify the script in a way that conforms to this figure's speech.
+- Transform(narration, figure): I will provide a generic narration, please transform it such that it appears to have been spoken by {figure} while maintaining the original information.
+
+Narration: {narration}
+
+
+**Viral Video Format**
+Pick an influential character and topic.
+
+Start video off with a joke about the topic from the character.
+
+Introduction, sub-topics (explained with complementing visuals) and summary, final outro.
+
+NEED TO GET PEOPLE TO COMMENT:
+- JOKES
+- MISTAKES (can intentionally tell people to 'spot the mistake'; this will lead to high viewership and commenting)
+- Confusion/controversy.
+
+
+
+
+
+**Another viral idea**
+'Educational content' which is simply completely wrong just for humour.
