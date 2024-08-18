@@ -1,0 +1,101 @@
+{
+    "props": [
+        {
+            "id": "molecule1",
+            "description": "a hand-drawn circle representing a gas molecule",
+            "startingPosition": { "x": 50, "y": 100 },
+            "showAtScenePercentage": 0.1,
+            "removeAtScenePercentage": 1.0
+        },
+        {
+            "id": "molecule2",
+            "description": "a hand-drawn circle representing a gas molecule",
+            "startingPosition": { "x": 150, "y": 200 },
+            "showAtScenePercentage": 0.1,
+            "removeAtScenePercentage": 1.0
+        },
+        {
+            "id": "molecule3",
+            "description": "a hand-drawn circle representing a gas molecule",
+            "startingPosition": { "x": 100, "y": 300 },
+            "showAtScenePercentage": 0.1,
+            "removeAtScenePercentage": 1.0
+        },
+        {
+            "id": "molecule4",
+            "description": "a hand-drawn circle representing a gas molecule",
+            "startingPosition": { "x": 200, "y": 150 },
+            "showAtScenePercentage": 0.1,
+            "removeAtScenePercentage": 1.0
+        },
+        {
+            "id": "container",
+            "description": "a hand-drawn sketch of a rectangular box representing the container",
+            "startingPosition": { "x": 0, "y": 0 },
+            "showAtScenePercentage": 0.7,
+            "removeAtScenePercentage": 1.0
+        }
+    ],
+    "animations": [
+        {
+            "propID": "molecule1",
+            "endPosition": { "x": 70, "y": 120 },
+            "durationPercentage": 0.1
+        },
+        {
+            "propID": "molecule1",
+            "endPosition": { "x": 120, "y": 180 },
+            "durationPercentage": 0.2
+        },
+        {
+            "propID": "molecule1",
+            "endPosition": { "x": 90, "y": 130 },
+            "durationPercentage": 0.3
+        },
+        {
+            "propID": "molecule2",
+            "endPosition": { "x": 180, "y": 220 },
+            "durationPercentage": 0.1
+        },
+        {
+            "propID": "molecule2",
+            "endPosition": { "x": 140, "y": 260 },
+            "durationPercentage": 0.2
+        },
+        {
+            "propID": "molecule2",
+            "endPosition": { "x": 190, "y": 190 },
+            "durationPercentage": 0.3
+        },
+        {
+            "propID": "molecule3",
+            "endPosition": { "x": 110, "y": 330 },
+            "durationPercentage": 0.1
+        },
+        {
+            "propID": "molecule3",
+            "endPosition": { "x": 90, "y": 280 },
+            "durationPercentage": 0.2
+        },
+        {
+            "propID": "molecule3",
+            "endPosition": { "x": 130, "y": 310 },
+            "durationPercentage": 0.3
+        },
+        {
+            "propID": "molecule4",
+            "endPosition": { "x": 220, "y": 180 },
+            "durationPercentage": 0.1
+        },
+        {
+            "propID": "molecule4",
+            "endPosition": { "x": 240, "y": 130 },
+            "durationPercentage": 0.2
+        },
+        {
+            "propID": "molecule4",
+            "endPosition": { "x": 210, "y": 160 },
+            "durationPercentage": 0.3
+        }
+    ]
+}

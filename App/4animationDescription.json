@@ -1,0 +1,17 @@
+[
+    {
+        "animationDescription": "The scene starts with a blank white background. Gradually, small hand-drawn circles representing gas molecules appear, scattered randomly across the screen. Each circle is slightly different in size and shape, giving a hand-drawn sketch feel. The molecules begin to move slowly, randomly, and continuously in different directions.",
+        "narration": "Gas molecules are in continuous, random motion.",
+        "startNarrationPercentage": 0.1
+    },
+    {
+        "animationDescription": "As the narration progresses, the movement of the gas molecules becomes more apparent. The molecules start to speed up slightly, emphasizing their random motion. Some molecules occasionally collide with each other, causing a brief change in direction. These collisions are highlighted with a small, subtle 'bounce' effect upon contact.",
+        "narration": "They travel in straight lines until they collide with other molecules...",
+        "startNarrationPercentage": 0.4
+    },
+    {
+        "animationDescription": "The camera view then slowly zooms out to reveal that these gas molecules are inside a hand-drawn sketch of a container, such as a rectangular box. The molecules continue their random motion, with some of them colliding with the walls of the container. Each collision with the wall causes the molecule to bounce back in a different direction, maintaining the straight-line travel until the next collision.",
+        "narration": "…or the walls of their container.",
+        "startNarrationPercentage": 0.7
+    }
+]

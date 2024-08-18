@@ -25,4 +25,5 @@ subSceneDimensions = [640, 440] #width, height
 #Title: Molecules in Constant Motion
 #Narration: Gas molecules are in continuous, random motion. They travel in straight lines until they collide with other molecules or the walls of their container.
 
-#We will take this narration and use ChatGPT to convert it into a 'storyboard'
+#We have converted the narration to an animation description and subsequently converted that into an animation.
+#now I need to create images for each prop, and create the video
