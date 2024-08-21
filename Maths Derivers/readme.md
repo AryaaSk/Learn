@@ -63,4 +63,16 @@ Low quality render to check (can render in high quality once satisfied with resu
 manim -pql script.py Main
 ```
 
-*Create narrations with 11Labs, import media into video editor and add background music*
+## Create narrations
+This can be done with 11Labs using a script such as this one.
+
+```
+let's solve this simple linear equation.
+
+subtract 4.
+
+divide by 1, and we're done!.
+```
+*Remember to add full-stops after each narration to provide a pause*
+
+## Import into a video editor and sync narrations with animations
