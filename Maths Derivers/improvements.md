@@ -9,3 +9,5 @@
 - Faster speech and better speech sync.
 
 - Would be good if music beat was synced to transitions
+
+- Laying of the equations: would be better to write the next line underneath the current equation rather than replace it.
