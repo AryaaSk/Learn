@@ -1,0 +1,17 @@
+[VOICE = 'Liam']
+
+Let's prove this fact from first principles purely algebraically.
+
+Definition of the derivative.
+
+Compound angle formula.
+
+Factorizing out the trigonometric functions.
+
+Substituting in Maclaurin series.
+
+Simplifying fractions.
+
+Substituting in h as 0.
+
+And we're done.
