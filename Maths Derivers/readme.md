@@ -1,5 +1,7 @@
 # A tool to enable rapid generation of maths derivation-like videos/shorts
 
+I am currently using this tool for a few YouTube videos. Check out the videos here: https://www.youtube.com/@aryaaskmaths and here: https://www.tiktok.com/@aryaaskmaths
+
 As a subset of the main program, this branch is specifically designed to create derivation-like shorts which take the user from a starting equation/expression to a final desired expression.
 
 For example, this tool could be used to quickly generate a short of solving the following equation
@@ -63,6 +65,8 @@ Low quality render to check (can render in high quality once satisfied with resu
 manim -pql script.py Main
 ```
 
+This step can also be completd via ChatGPT.
+
 ## Create narrations
 This can be done with 11Labs using a script such as this one.
 
@@ -75,4 +79,22 @@ divide by 1, and we're done!.
 ```
 *Remember to add full-stops after each narration to provide a pause*
 
+This step can also be done simply with ChatGPT, by just importing the script with the prompt
+
+Here's a script
+
+{script}
+
+I want you to remove all the maths expression and just focus on the narrations after the semicolon.
+
+Put the narrations in a list separated by full stops and line breaks. e.g.
+narration 1.
+
+narration 2.
+
+narration 3.
+...
+
 ## Import into a video editor and sync narrations with animations
+
+## Add background music
