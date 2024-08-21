@@ -6,8 +6,8 @@ As a subset of the main program, this branch is specifically designed to create 
 
 For example, this tool could be used to quickly generate a short of solving the following equation
 
-3x + 4 = 7
-3x = 3
+3x + 4 = 7\
+3x = 3\
 x = 1
 
 The user will enter the steps and extra information, and the tool should output a script/video complete music and visualisations.
