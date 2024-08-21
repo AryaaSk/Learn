@@ -1,0 +1,14 @@
+d/dx{sin(x)} = cos(x); let's prove this fact from first principles purely algebraicly
+
+d/dx(sin(x))
+= lim h goes to 0 {sin(x + h) - sin(x)}/{h}; definition of the derivative
+= lim h goes to 0 {sin(x)cos(h) + cos(x)sin(h) - sin(x)}/{h}; compound angle formula
+= lim h goes to 0 {sin(x)cos(h) - sin(x) + cos(x)sin(h)}/{h};
+= lim h goes to 0 sin(x) * {cos(h) - 1}/{h} + cos(x) * {sin(h)}/{h}; factorising out the trignometric functions
+= lim h goes to 0 sin(x) * {1 - h^2/2! + h^4/4! ... - 1}/{h} + cos(x) * {h - h^3/3! + h^5/5! ...}/{h}; substituting in Maclaurin series
+= lim h goes to 0 sin(x) * {- h^2/2! + h^4/4! ...}/{h} + cos(x) * {h - h^3/3! + h^5/5! ...}/{h}
+= lim h goes to 0 sin(x) * (-h/2! + h^3/4! ...) + cos(x) * (1 - h^2/3! + h^4/5! ...); simplifying fractions
+= sin(x) * (-0 + 0 ...) + cos(x) * (1 - 0 + 0 ...); substituting in h as 0
+= sin(x) * 0 + cos(x) * 1;
+= cos(x); and we're done
+d/dx{sin(x)} = cos(x)
