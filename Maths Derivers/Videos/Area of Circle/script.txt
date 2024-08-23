@@ -1,0 +1,23 @@
+let's prove the formula for the area of a circle using integration.
+
+equation of a circle at origin.
+
+re-arrange for y.
+
+deduce formula for area of the quarter circle and multiply by 4.
+
+setup trigonometric substitution to remove square root.
+
+replace limits and substitute.
+
+factor out radius from square root.
+
+use trigonometry identity.
+
+factor out constant r and simplify.
+
+cos double angle formula.
+
+integrate and evaluate limits.
+
+simplify and we're done!

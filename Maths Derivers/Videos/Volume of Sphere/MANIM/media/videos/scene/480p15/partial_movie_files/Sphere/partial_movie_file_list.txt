@@ -1,2 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/aryaask/Documents/Website Projects/Learn/Maths Derivers/Videos/Volume of Sphere/MANIM/media/videos/scene/480p15/partial_movie_files/Sphere/4115915104_1643959035_1598183916.mp4'
