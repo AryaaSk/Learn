@@ -1,0 +1,25 @@
+Not many people can solve this integral. can you?
+
+Multiply numerator and denominator by cosx.
+
+Use trigonometric identity.
+
+Setup substitution to simplify.
+
+Decompose into partial fractions.
+
+Determine constants and integrate to natural logs.
+
+Factor out constant half and combine logarithms.
+
+Re-substitute sinx.
+
+Rationalise numerator and denominator.
+
+Simplify and use sin cos identity again.
+
+Move half into logarithm to square root.
+
+Split fractions to clean up.
+
+Don't forget the plus 'c', and WE'RE DONE!
